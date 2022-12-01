@@ -2,3 +2,4 @@
 *.hi
 ./input/*
 .Rproj.user
+.Rhistory
